@@ -1,0 +1,20 @@
+[
+    {
+        "Id" : 10,
+        "name" : "Murigu Gitonga",
+        "email" : "gitonga@me.com",
+        "phone" : "222-234-456"
+    },
+    {
+        "Id" : 11,
+        "name" : "Kagondu Gitonga",
+        "email" : "kagondu@me.com",
+        "phone" : "222-231-456"
+    },
+    {
+        "Id" : 12,
+        "name" : "Njiiri Gitonga",
+        "email" : "njiiri@me.com",
+        "phone" : "222-234-456"
+    }
+]
