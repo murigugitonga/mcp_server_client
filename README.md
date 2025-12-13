@@ -1,3 +1,3 @@
 ## A Node MCP Server
 
-A NodeJs MCP server
+A NodeJs MCP server & client.
