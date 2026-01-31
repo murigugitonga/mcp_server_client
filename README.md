@@ -1,9 +1,3 @@
-# An MCP Server-client Pipeline
+## A Node MCP Server
 
-This project demonstrates an end-to-end MCP server-client pipeline.
-
-## MCP Server
-
----
-
-## MCP Client
+A NodeJs MCP server & client.
