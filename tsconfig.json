@@ -4,8 +4,8 @@
     // "rootDir": "./src",
     // "outDir": "./dist",
     "target" : "EsNext",
-    "module" : "EsNext",
-    "moduleResolution" : "nodenext",
+    "module" : "NodeNext",
+    "moduleResolution" : "NodeNext",
     "outDir" : "./build",
     "rootDir" : "./src",
     "strict" : true,
@@ -19,7 +19,7 @@
     // See also https://aka.ms/tsconfig/module
     //"module": "nodenext",
     //"target": "esnext",
-    "types": [],
+    "types": ["node"],
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],
